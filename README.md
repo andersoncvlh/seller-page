@@ -1,6 +1,6 @@
-# Query parameters react-router-dom shared in a react.context
+# Parâmetros de consulta react-router-dom compartilhados em react.context
 
-Using: 
+Usando: 
 - [React contexts](https://reactjs.org/docs/context.html)
 - [react-router-dom](https://reactrouter.com/)
 
